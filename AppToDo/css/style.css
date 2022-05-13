@@ -27,3 +27,13 @@ body {
     border-radius: 5px;
     cursor: pointer;
 }
+
+.fa-plus{
+    background-color: #abcea1;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+#msg {
+    color: red;
+}
